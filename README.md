@@ -14,17 +14,9 @@
     <img src="https://skillicons.dev/icons?i=idea,vscode,java" />
   </a>
 </p>
-<p align="center">
-  <a href="https://github.com/RisasDev">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jxniperr&show_icons=true&theme=rose&count_private=true&locale=en" alt="jxniperr"/>
-  </a>
-</p>
 
-| <a href="https://github.com/jxniperr/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jxniperr&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/jxniperr/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jxniperr&layout=compact&theme=buefy&hide_border=true" /></a> |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| ------------- |
-
-
-
+| <a href="https://github.com/jxniperr/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jxniperr&show_icons=true&include_all_commits=true&theme=rose&hide_border=true" alt="DevJxniper's github stats" /></a> | <a href="https://github.com/jxniperr/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jxniperr&layout=compact&theme=rose&hide_border=true" /></a> |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 <p align="center">
   <a href="https://discord.com/users/583108165533564959" target="_blank" rel="nofollow">
     <img align="center" src="https://lanyard.cnrad.dev/api/583108165533564959?bg=&theme=light&borderRadius=30px&idleMessage=Nothing..." alt="Discord Presence">
