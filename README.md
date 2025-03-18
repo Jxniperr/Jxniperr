@@ -4,9 +4,8 @@
   </a>
 </p>
 
-# Hey, wassup! 👋
+<p align="center"><b><big>Hey, wassup! 👋</big></b></p>
 
-## 📖 About me
 <p align="center"><b>Hi! I'm Jxniperr, a minecraft plugin developer & a cat lover. 🐈</b></p>
 <p align="center">💻 I’m currently experienced in <b>Java</b>  and learning <b>Kotlin</b> & <b>Python</b><br>🎉 I'm <b>18</b> years old</p>
 <p align="center">
